@@ -20,7 +20,7 @@ void show(hn_list<int> li)
 int main()
 {
 	std::cout << "Hello World!\n";
-	cout << "使用默认无参构造+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++=" << endl;
+	cout << "使用默认无参构造++++++++++++++++++++++++++++++++++++++++++++++++++=" << endl;
 	hn_list<int> la;
 	hn_list_node<int> na(1);
 	hn_list_node<int> nb(3);
